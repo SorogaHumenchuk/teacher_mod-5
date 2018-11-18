@@ -1,0 +1,54 @@
+.section {
+    position: relative;
+    display: block;
+    width: 100vw;
+    height: 1000px;
+    background-attachment: fixed;
+}
+.bg5 {
+    background-image: url('http://www.fullhdwpp.com/wp-content/uploads/city-night-lights-3_www.FullHDWpp.com_.jpg');
+}
+.bg2 {
+    background-image: url('https://newevolutiondesigns.com/images/freebies/animals-background-1.jpg');
+}
+.bg3 {
+    background-image: url('https://wallpaperplay.com/walls/full/7/a/6/77999.jpg');
+}
+.bg4 {
+    background-image: url('https://i.imgur.com/kTc1tSm.jpg');
+}
+.bg1 {
+    background-image: url('https://404store.com/2017/03/03/mountains_sky_bali_sunrise_kintamani_indonesia_95497_1920x1080.jpg');
+}
+.article {
+    position: relative;
+    position: absolute;
+    right: 300px;
+    top: 100px;
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 600px;
+    height: 340px;
+    text-align: center;
+    padding: 10px;
+}
+.main_title {
+    color: #fff;
+    font-size: 90px;
+    margin-bottom: 20px;
+}
+.main__text {
+    color: #fff;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+.btn {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    border: 0;
+    background-color: red;
+    width: 160px;
+    height: 60px;
+    border-radius: 5    px;
+    color: #fff;
+}
